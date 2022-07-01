@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React and Bootstrap
+          Learn React and material ui
         </a>
       </header>
     </div>
